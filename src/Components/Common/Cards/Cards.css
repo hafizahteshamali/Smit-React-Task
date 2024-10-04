@@ -1,0 +1,19 @@
+.card{
+    min-height: 450px !important;
+    margin: 20px 0;
+}
+.card img{
+    aspect-ratio: 2/2;
+}
+.card h6{
+    font-size: 16px;
+}
+.card h6 span{
+    font-weight: 700;
+    margin-right: 15px;
+}
+.btn{
+    width: 100%;
+    border: 1px solid #000 !important;
+    margin-top: 10px;
+}
